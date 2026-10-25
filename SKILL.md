@@ -3,6 +3,10 @@ name: douyin-scrapers
 description: 爬取抖音爆款视频和互动数据，支持自然语言搜索请求（如"搜索一下AI视频"）、关键词搜索、热榜获取、视频信息提取等。支持四大能力：(1) 关键词搜索视频/图文，可按点赞数、发布时间、视频时长、内容类型筛选排序；(2) 实时热榜查询，获取抖音热搜词条与热度数据；(3) 博主作品抓取，按主页链接或 sec_uid 获取公开作品列表；(4) 视频评论分析，按视频链接或 aweme_id 获取评论内容与互动数据。
 license: MIT
 version: "1.4.0"
+display_name: 抖音爆款爬虫
+display_name_en: Douyin Scrapers
+description_zh: 爬取抖音爆款视频和互动数据，支持自然语言搜索请求（如"搜索一下AI视频"）、关键词搜索、热榜获取、视频信息提取等。支持四大能力：(1) 关键词搜索视频/图文，可按点赞数、发布时间、视频时长、内容类型筛选排序；(2) 实时热榜查询，获取抖音热搜词条与热度数据；(3) 博主作品抓取，按主页链接或 sec_uid 获取公开作品列表；(4) 视频评论分析，按视频链接或 aweme_id 获取评论内容与互动数据。
+description_en: Crawl viral Douyin videos and engagement data. It supports natural language search queries (e.g. "search for AI videos"), keyword search, hot list retrieval, video information extraction and more. It features four core capabilities(1) Search videos/image-text posts by keywords, with filtering and sorting by likes, publish time, video duration and content type;(2) Real-time hot list query to obtain Douyin trending search terms and popularity data;(3) Creator post scraping, retrieve the list of public works via homepage link or sec_uid;(4) Video comment analysis, acquire comment content and engagement data through video link or aweme_id.
 metadata:
   openclaw:
     emoji: "🎬"
